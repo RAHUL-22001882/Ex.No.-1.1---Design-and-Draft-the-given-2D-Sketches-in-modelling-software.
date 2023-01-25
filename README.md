@@ -1,7 +1,7 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
-##DATE:25-01-2023
-##NAME:B.RAHUL
-##REF.NO:22001882
+## DATE:25-01-2023
+## NAME:B.RAHUL
+## REF.NO:22001882
 ## AIM
 
 To sketch the given drawing with dimensions using fusion 360 tool.
